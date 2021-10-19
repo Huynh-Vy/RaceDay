@@ -1,4 +1,4 @@
-#Race Day Project
+# Race Day Project
 
 ## This project uses Javascript to infrom the runner about start time and their race number
 
